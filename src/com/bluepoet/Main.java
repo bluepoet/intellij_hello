@@ -6,5 +6,7 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Project Diva");
         System.out.println("Project Rock");
+        System.out.println("Project Classic");
+        System.out.println("Merge Complete!");
     }
 }
