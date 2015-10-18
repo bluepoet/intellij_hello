@@ -8,6 +8,5 @@ public class Main {
         System.out.println("Project Rock");
         System.out.println("Project Classic");
         System.out.println("Merge Complete!");
-        System.out.println("Hello local repository");
     }
 }
